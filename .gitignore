@@ -1,3 +1,4 @@
 # Project exclude paths
 /.gradle/
 src/main/java/Token.java
+build
